@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/twitter/follow/inkonchain)](https://x.com/inkonchain)
+[![Twitter](https://img.shields.io/twitter/follow/inkonchain)](https://x.com/inkonchain) (https://x.com/shvetsman)
 
 # InkChain Documentation App
 
